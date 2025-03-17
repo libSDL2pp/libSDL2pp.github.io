@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['abstraction_0',['I/O abstraction',['../group__io.html',1,'']]],
+  ['allocatechannels_1',['AllocateChannels',['../classSDL2pp_1_1Mixer.html#aa1873f8f1b7cf078f8ce2081456e9736',1,'SDL2pp::Mixer']]],
+  ['audio_2',['Audio',['../group__audio.html',1,'']]],
+  ['audiocallback_3',['AudioCallback',['../classSDL2pp_1_1AudioDevice.html#a2adc64c0b5deeb6e577c974b51536755',1,'SDL2pp::AudioDevice']]],
+  ['audiodevice_4',['audiodevice',['../classSDL2pp_1_1AudioDevice.html',1,'SDL2pp::AudioDevice'],['../classSDL2pp_1_1AudioDevice.html#afe1ceb5448e8588b76528fddfcfb20d4',1,'SDL2pp::AudioDevice::AudioDevice(const Optional&lt; std::string &gt; &amp;device, bool iscapture, const AudioSpec &amp;spec, AudioCallback &amp;&amp;callback=AudioCallback())'],['../classSDL2pp_1_1AudioDevice.html#ad10ca540ec41b4fb6a804a4401e26433',1,'SDL2pp::AudioDevice::AudioDevice(const Optional&lt; std::string &gt; &amp;device, bool iscapture, AudioSpec &amp;spec, int allowed_changes, AudioCallback &amp;&amp;callback=AudioCallback())'],['../classSDL2pp_1_1AudioDevice.html#a9fa1bdb58b907471364af8487aa12f5b',1,'SDL2pp::AudioDevice::AudioDevice(AudioDevice &amp;&amp;other) noexcept'],['../classSDL2pp_1_1AudioDevice.html#a27b85f87e60d77f4ed334df06c19b831',1,'SDL2pp::AudioDevice::AudioDevice(const AudioDevice &amp;)=delete']]],
+  ['audiospec_5',['audiospec',['../classSDL2pp_1_1AudioSpec.html',1,'SDL2pp::AudioSpec'],['../classSDL2pp_1_1AudioSpec.html#a9c91c7d807347ef5b37d1819df58337f',1,'SDL2pp::AudioSpec::AudioSpec()'],['../classSDL2pp_1_1AudioSpec.html#ad0060a2b19fa082e22371b79834ac6cc',1,'SDL2pp::AudioSpec::AudioSpec(int freq, SDL_AudioFormat format, Uint8 channels, Uint16 samples)'],['../classSDL2pp_1_1AudioSpec.html#a859c2ffd3fcac5afa6cf5574fd7f1273',1,'SDL2pp::AudioSpec::AudioSpec(AudioSpec &amp;&amp;other)'],['../classSDL2pp_1_1AudioSpec.html#a3e6d4103efd81d703e9e49cbdc873b58',1,'SDL2pp::AudioSpec::AudioSpec(const AudioSpec &amp;other)=delete']]],
+  ['author_6',['Author',['../index.html#autotoc_md9',1,'']]]
+];
